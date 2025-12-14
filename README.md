@@ -14,6 +14,14 @@ LangChain and OpenAI's GPT model.
 - Streamlit
 - LangChain
 - OpenAI API
+- 
+- project structure
+- faq_project/
+│── faqs_chatboot.py # Main chatbot code
+│── data/
+│ └── faqs.csv # FAQ dataset
+│── README.md
+│── requirements.txt
 
 ## How to Run
 1. Install dependencies:
